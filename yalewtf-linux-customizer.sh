@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 
 #Ask User TO Download Theme or Not 
