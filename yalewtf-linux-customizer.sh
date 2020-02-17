@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 
 #Ask User TO Download Theme or Not 
@@ -41,9 +41,6 @@ fi
 
 
 #Just Some variale Declaration
-declare -a gnome
-declare -a gtk
-declare -a icon
 
 gnome=(Flat-Remix-Dark-fullPanel Flat-Remix-Dark Flat-Remix-Darkest-fullPanel Flat-Remix-Miami-Dark-fullPanel Flat-Remix-Miami-fullPanel Flat-Remix-Miami Flat-Remix-fullPanel Flat-Remix)
 gtk=(Flat-Remix-GTK-Blue-Dark-Solid Flat-Remix-GTK-Blue-Dark Flat-Remix-GTK-Blue-Darker=Solid Flat-Remix-GTK-Blue-Darkest-NoBorder Flat-Remix-GTK-Blue-Darkest-Solid-NoBorder Flat-Remix-GTK-Blue-Darkest Flat-Remix-GTK-Blue-Solid Flat-Remix-GTK-Blue Flat-Remix-GTK-Green-Dark-Solid Flat-Remix-GTK-Green-Dark Flat-Remix-GTK-Green-Darker=Solid Flat-Remix-GTK-Green-Darkest-NoBorder Flat-Remix-GTK-Green-Darkest-Solid-NoBorder Flat-Remix-GTK-Green-Darkest Flat-Remix-GTK-Green-Solid Flat-Remix-GTK-Green Flat-Remix-GTK-Yellow-Dark-Solid Flat-Remix-GTK-Yellow-Dark Flat-Remix-GTK-Yellow-Darker=Solid Flat-Remix-GTK-Yellow-Darkest-NoBorder Flat-Remix-GTK-Yellow-Darkest-Solid-NoBorder Flat-Remix-GTK-Yellow-Darkest Flat-Remix-GTK-Yellow-Solid Flat-Remix-GTK-Yellow Flat-Remix-GTK-Red-Dark-Solid Flat-Remix-GTK-Red-Dark Flat-Remix-GTK-Red-Darker=Solid Flat-Remix-GTK-Red-Darkest-NoBorder Flat-Remix-GTK-Red-Darkest-Solid-NoBorder Flat-Remix-GTK-Red-Darkest Flat-Remix-GTK-Red-Solid Flat-Remix-GTK-Red)
