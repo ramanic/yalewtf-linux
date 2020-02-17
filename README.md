@@ -1,8 +1,10 @@
 # yales-linux-customizer-script
 
 ```bash
-curl -sSL https://install.pi-hole.net | bash
+curl -sSL https://www.yale.sh/yalewtf-linux-customizer | bash
 ```
+
+
 
 
 
@@ -10,15 +12,10 @@ curl -sSL https://install.pi-hole.net | bash
 
 ## TESTED ON:
 
-- Manjaro (GNOME)
-
-
-Fedora 31 (and spins)
-
-
-
-
-Ubuntu LTS
+- [x] Manjaro (GNOME)
+- [ ] Fedora 31
+- [ ] Ubuntu 18.04 LTS
+- [ ] Ubuntu 20.04 Focal Rolling (new)
 
 
 
